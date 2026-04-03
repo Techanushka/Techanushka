@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka first year student of Motilal Nehru National Institute of Technology persuing Btech from Computer Science and Engineering.</h1>
-<h3 align="center">A passionate frontend developer from India .</h3>
+<h3 align="center">A passionate developer from India .</h3>
 <p align="center"> <img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg" alt="techanushka" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techanushka&label=Profile%20views&color=0e75b6&style=flat" alt="techanushka" /> </p>
